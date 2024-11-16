@@ -24082,15 +24082,15 @@ input.checkbox-primary[type='checkbox'] {
 }
 
 .accordion .card-header .icon:before {
-  content: '\f068';
-  color: #000;
+  content: '\f063';
+  color: #fff !important;
   font-family: 'Font Awesome 5 Pro';
   font-size: 12px;
   transition: all 0.2s;
 }
 
 .accordion .card-header a.collapsed .icon:before {
-  content: '\f067';
+  content: '\f062';
 }
 
 .breadcrumb-site {
